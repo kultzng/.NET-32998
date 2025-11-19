@@ -1,0 +1,3 @@
+11111,password,admin,admin1,admin@dotnet.com,012345678,default
+22222,password,patient,PatientTest1,patient@dotnet.com,012345678,default
+33333,password,doctor,DoctorTest1,doctor@dotnet.com,012345678,default
